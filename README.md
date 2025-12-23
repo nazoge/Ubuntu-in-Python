@@ -1,2 +1,5 @@
 # Ubuntu-in-Python
 pterodactylを使ってpythonの実行をしているホストサービスでUbuntuを動かすプログラム
+
+Linux上でしか動かない(はず)
+仕組みはpythonでproot権限でubuntuを動かしている
