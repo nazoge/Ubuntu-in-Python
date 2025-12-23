@@ -1,0 +1,2 @@
+# Ubuntu-in-Python
+pterodactylを使ってpythonの実行をしているホストサービスでUbuntuを動かすプログラム
